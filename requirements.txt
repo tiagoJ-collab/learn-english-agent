@@ -1,0 +1,9 @@
+fastapi==0.128.8
+uvicorn==0.39.0
+httpx==0.28.1
+python-dotenv==1.2.1
+python-multipart==0.0.20
+faster-whisper==1.2.1
+piper-tts==1.8.0
+numpy==2.0.2
+pytest==8.4.2
